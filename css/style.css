@@ -194,3 +194,11 @@ body {
     margin-top: 10px;
     color: #f05f40;
 }
+
+#mc_embed_signup form {
+    padding: 0;
+}
+ 
+.mt-25 {
+    margin-top: 25px;
+}
